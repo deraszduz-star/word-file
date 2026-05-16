@@ -536,7 +536,7 @@ def process_markdown(doc, md_text):
 
 def main():
     # Читаем markdown
-    with open('/projects/sandbox/word-file/Текст_ВКР.md', 'r', encoding='utf-8') as f:
+    with open('/projects/sandbox/word-file/Текст_ВКР (1).md', 'r', encoding='utf-8') as f:
         md_text = f.read()
 
     # Создаём документ
